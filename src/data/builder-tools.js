@@ -320,4 +320,4 @@ function ensureShowcaseValid(showcase) {
   }
 }
 
-Showcases.forEach(ensureShowcaseValid);
+d);
